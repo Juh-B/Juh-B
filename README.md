@@ -51,13 +51,14 @@
   <img src="https://img.shields.io/badge/SQLite-a896cc?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/>
 </a>
 
+
 <a href="https://www.figma.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Figma-003854?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Figma-6181A6?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </a>
-<img src="https://img.shields.io/badge/Photoshop-07405E?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="photoshop"/>
+<img src="https://img.shields.io/badge/Photoshop-507598?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="photoshop"/>
 <img src="https://img.shields.io/badge/Illustrator-245575?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator"/>
-<img src="https://img.shields.io/badge/InDesign-507598?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="indesign"/>
-<img src="https://img.shields.io/badge/Premiere%20Pro-6181A6?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="premiere pro"/>
+<img src="https://img.shields.io/badge/InDesign-07405E?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="indesign"/>
+<img src="https://img.shields.io/badge/Premiere%20Pro-003854?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="premiere pro"/>
 </p>
 
 ##
@@ -65,6 +66,6 @@
 <h3 align="left">My stats:</h3>
 
 <div style="display: inline_block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juh-B&count_private=true?&show_icons=true&icon_color=6181A6&bg_color=1a003d&text_color=fff&title_color=e23d81">
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juh-B&layout=compact&bg_color=1A003D&text_color=FFFFFF&title_color=E23D81">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Juh-B&count_private=true?&show_icons=true&icon_color=6181A6&bg_color=1a003d&text_color=fff&title_color=e23d81">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juh-B&layout=compact&bg_color=1A003D&text_color=FFFFFF&title_color=E23D81">
 </div>
