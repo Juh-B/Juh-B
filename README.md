@@ -13,10 +13,10 @@
 <hr>
 <h3 align="left">😊 About me:</h3>
 
+- Cadet / Student at [42sp](https://www.42sp.org.br/).
+- Currently improving my knowledge in <b>C language</b>.
+- Full-Stack Web Dev graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/) with knowledge in <b>Ruby</b>.
 - Graphic Designer graduated from [Senac](https://www.senac.br/)
-- Full-Stack Web Dev graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/) 
-- Improving my knowledge in <b>Ruby on rails</b>
-- Currently learning about <b>React</b>
 
 ##
 
