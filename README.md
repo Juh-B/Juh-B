@@ -23,11 +23,11 @@
 <h3 align="left">Skills:</h3>
 
 <p align="left"> 
-  <a href="https://devdocs.io/c/" target="_blank">
-  <img src="https://img.shields.io/badge/C_Language-2c0066?style=for-the-badge&logo=c-languagey&logoColor=white" alt="c"/>
+<a href="https://devdocs.io/c/" target="_blank">
+  <img src="https://img.shields.io/badge/C-2c0066?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
 </a>
-  <a href="https://devdocs.io/cpp/" target="_blank">
-  <img src="https://img.shields.io/badge/C++-330077?style=for-the-badge&logo=c++&logoColor=white" alt="cpp"/>
+<a href="https://devdocs.io/cpp/" target="_blank">
+  <img src="https://img.shields.io/badge/C%2B%2B-330077?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="cpp"/>
 </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank">
   <img src="https://img.shields.io/badge/Ruby-430098?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/>
