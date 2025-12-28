@@ -13,7 +13,8 @@
 <hr>
 <h3 align="left">😊 About me:</h3>
 
-- Cadet / Student at [42sp](https://www.42sp.org.br/).
+- Software Engineering student (Cadet) at [42 SP](https://www.42sp.org.br/).
+- Data Science student at [UNIVESP](https://univesp.br/cursos/bacharel-em-ciencia-de-dados).
 - Currently improving my knowledge in <b>C and C++ language</b>.
 - Full-Stack Web Dev graduated from [Le Wagon's Coding Bootcamp](https://www.lewagon.com/) with knowledge in <b>Ruby</b>.
 - Graphic Designer graduated from [Senac](https://www.senac.br/)
